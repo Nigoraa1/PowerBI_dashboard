@@ -1,5 +1,5 @@
-Power BI Dashboard - AdventureWorks2019 Insights
-Overview
+# Power BI Dashboard - AdventureWorks2019 Insights
+### Overview
 This Power BI dashboard provides an in-depth analysis of the AdventureWorks2019 dataset, offering key insights into various aspects of the company's operations, such as sales performance, customer demographics, and product trends. The dashboard is designed to help stakeholders quickly understand and explore key metrics with interactive visualizations.
 
 Key Features
