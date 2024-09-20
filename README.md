@@ -5,6 +5,9 @@ This Power BI dashboard provides an in-depth analysis of the AdventureWorks2019 
 ### Screenshots
 Here are some screenshots from the Power BI dashboard:
 ![image](https://github.com/user-attachments/assets/4c915ea9-1fe4-43c4-8df3-1bd1a1063c6e)
+![image](https://github.com/user-attachments/assets/95705a59-314e-4231-893e-c0eef4607282)
+![image](https://github.com/user-attachments/assets/ac9374a4-089e-4566-9ff7-0dc6f13d08e6)
+
 
 
 ### Key Features
